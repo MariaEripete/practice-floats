@@ -36,4 +36,10 @@ img{
   .dogs p a {
     font-style: italic;
   }
-  
+  @media screen and (min-wudth: 490px){
+    body {
+        background-color: pink;
+        color: darkred;
+    }
+
+  }
