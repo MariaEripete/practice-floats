@@ -21,4 +21,19 @@ img{
     margin: 20px;
     padding: 6px;
   }
+  body {
+    font-family: sans-serif;
+  }
+  .cats p {
+    background-color: coral;
+  }
+  .dogs p {
+    background-color: steelblue;
+  }
+  .cats p a {
+    font-weight: bold;
+  }
+  .dogs p a {
+    font-style: italic;
+  }
   
